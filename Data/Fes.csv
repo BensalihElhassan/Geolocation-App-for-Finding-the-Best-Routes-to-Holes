@@ -1,0 +1,70 @@
+latitude,longitude,geometry,@id,city,name,tourism
+34.0363086,-4.9967841,Point,node/1139007346,FES,Hotel Mounia,hotel
+34.0352784,-5.0034243,Point,node/1313830498,FES,Hotel Volubilis,hotel
+34.0430735,-5.0011278,Point,node/1687718667,FES,Hotel Royal,hotel
+34.0617756,-4.9837919,Point,node/1700815076,FES,Hotel Cascades,hotel
+34.0417077,-4.9946752,Point,node/1866482864,FES,Menzeh Zalagh,hotel
+34.052244,-5.0323491,Point,node/2139294873,FES,Hotel Zalagh Parc Palace,hotel
+34.0580549,-4.9836516,Point,node/2312523487,FES,Campini,hotel
+34.0404036,-5.0019849,Point,node/2312523586,FES,Hotel sofia,hotel
+34.0612879,-4.9837741,Point,node/2847372306,FES,Hotel Bab Boujloud,hotel
+34.0574076,-4.9761393,Point,node/2952695752,FES,Palais Faraj,hotel
+34.0601753,-4.9819166,Point,node/2952711439,FES,Hôtel Batha,hotel
+34.0397431,-4.9985678,Point,node/2952718684,FES,Hotel Olympic,hotel
+34.0427436,-4.9989594,Point,node/2952722611,FES,Hotel de la Paix,hotel
+34.0388052,-4.9975324,Point,node/2952725103,FES,Grand Hôtel,hotel
+34.0328624,-4.9934725,Point,node/3217569208,FES,Nouzha,hotel
+34.04765,-4.9929539,Point,node/3217569212,FES,Palais Medina Spa,hotel
+34.0611614,-4.9713122,Point,node/3919978432,FES,La Maison Verte,hotel
+34.0433479,-4.9960802,Point,node/4519452391,FES,Menzeh Zalagh,hotel
+34.0627957,-4.97723,Point,node/4690220691,FES,Maison famille Tazi,hotel
+34.0389629,-5.0026432,Point,node/4711934594,FES,Hotel Wassim,hotel
+34.0413468,-5.0012068,Point,node/4713135612,FES,Hôtel Amour,hotel
+34.0410281,-5.0011406,Point,node/4713135903,FES,,hotel
+34.0323136,-5.0061868,Point,node/4721996889,FES,Hotel Nous Plazza,hotel
+34.0601122,-4.9750847,Point,node/4725737193,FES,,hotel
+34.0404394,-4.9969605,Point,node/4734066124,FES,Hotel Savoy,hotel
+34.0383304,-5.005345,Point,node/4737924821,FES,Hotel Zahrat Aljabal,hotel
+34.0388811,-4.9986323,Point,node/4738032022,FES,Hotel al Fath,hotel
+34.0378501,-5.0004358,Point,node/4740133430,FES,Hotel Splendid,hotel
+34.0379987,-5.0005085,Point,node/4759406436,FES,Hotel splendid,hotel
+34.0381979,-4.9994375,Point,node/4759619138,FES,Hotel Renaissance,hotel
+34.0396383,-5.007896,Point,node/4763839622,FES,Golden Tulip,hotel
+34.0370835,-4.9979499,Point,node/4763970222,FES,Hotel central,hotel
+34.0446667,-5.0046628,Point,node/4791502624,FES,Hôtel Perla,hotel
+34.0511773,-5.0360553,Point,node/4794200005,FES,Ibis Budget Fes,hotel
+34.0373407,-4.9990984,Point,node/4805386421,FES,Maghreb Hôtel,hotel
+34.0579597,-4.9753665,Point,node/4811038023,FES,PalaIS Mokri,hotel
+34.0370791,-4.9942756,Point,node/4869725122,FES,Dar Alian,hotel
+34.0381439,-5.0050647,Point,node/4869954721,FES,Hôtel l'Escale,hotel
+34.0281491,-4.9915876,Point,node/4982367121,FES,Hotel Errabie,hotel
+34.032464,-4.9952554,Point,node/5112795126,FES,Hotel Rex,hotel
+34.0616325,-4.9744932,Point,node/5521974989,FES,Dar R'cif,hotel
+34.0591888,-4.9763249,Point,node/5522195339,FES,Le Palais Mokri (Dar Mokri),hotel
+34.0583899,-4.9749298,Point,node/5527409550,FES,Le Palais El Mokri,hotel
+34.0622404,-4.9811848,Point,node/5542639045,FES,Dar Hodou,hotel
+34.0382624,-5.0053168,Point,node/5573152207,FES,Hotel zahrat al jabal,hotel
+34.0627945,-4.9821303,Point,node/5582074946,FES,famille Enouina,hotel
+34.0617928,-4.9837512,Point,node/5582574740,FES,Hotel moritania,hotel
+34.0618173,-4.9837284,Point,node/5582599050,FES,Hotel CASCAD,hotel
+34.0618142,-4.9830748,Point,node/5582627149,FES,Hotel LAMRANI,hotel
+34.0608376,-4.9844594,Point,node/5588046988,FES,riad les chirifi,hotel
+34.0608683,-4.9845586,Point,node/5588050449,FES,Hotel JARDIN,hotel
+34.0511836,-5.0360619,Point,node/5719956521,FES,Hôtel Ibis budget,hotel
+34.0436358,-4.9922166,Point,node/5722833009,FES,Hotel Sahrai,hotel
+34.0469151,-5.0043442,Point,node/5751541672,FES,Hotel Ibis,hotel
+34.0584558,-4.9782809,Point,node/6025500186,FES,,hotel
+34.0580797,-4.9763147,Point,node/6225203889,FES,Messi Elli Asja,hotel
+34.0599344,-4.9800488,Point,node/6345857750,FES,Le Grand Alcazar - Riad,hotel
+34.0589883,-4.9787833,Point,node/6468043376,FES,Palais Sheherazade & spa,hotel
+34.0616948,-4.9723193,Point,node/6768823985,FES,,hotel
+34.0596886,-4.9780884,Point,node/6975940185,FES,Riad Al Assala Fes,hotel
+34.0633969,-4.98337,Point,node/6984268232,FES,Dar Mayssae,hotel
+34.0588067,-4.9739169,Point,node/7267425386,FES,Bab Jdid,hotel
+34.059833,-4.981209,Point,node/9178385718,FES,Fes Heritage,hotel
+34.0519225,-4.9928861,Point,node/9317998515,FES,Hôtel Glacier,hotel
+34.0622338,-4.9822635,Point,node/9913167521,FES,Dar Merzouga,hotel
+34.0630462,-4.9719244,Point,node/10166301392,FES,Riad Fes El Kaid,hotel
+34.058431,-4.9791733,Point,node/10278314510,FES,,hotel
+34.0629412,-4.9719731,Point,node/10300081713,FES,,hotel
+34.0617394,-4.9716192,Point,node/10693026605,FES,,hotel
